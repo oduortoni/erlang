@@ -1,0 +1,26 @@
+# Compiled files
+*.beam
+*.o
+*.so
+*.dll
+
+# Erlang crash dumps
+erl_crash.dump
+
+# Logs
+*.log
+
+# Temporary files
+*~
+.#*
+\#*#
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
